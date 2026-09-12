@@ -17,6 +17,8 @@ Monitors temperature and humidity using a sensor and displays the readings on an
 5. Power the Arduino and check the OLED for live readings 
 ## It Should Look Like this
 Note: Simulated using a DHT22 part in Wokwi (DHT11 not available in the simulator), but the actual build and code use DHT11.
+
+
 ![Circuit Diagram](TempDiagram.png)
 
 
