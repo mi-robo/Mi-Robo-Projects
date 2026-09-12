@@ -16,7 +16,7 @@ Monitors temperature and humidity using a sensor and displays the readings on an
 4. Upload the code from `temp._humi.ino` this folder or copy paste it
 5. Power the Arduino and check the OLED for live readings 
 ## It Should Look Like this
-![Circuit Diagram](Temperature-humidity-monitor/Screenshot(490).png)
+![Circuit Diagram](TempDiagram.png)
 
 
 ## Code
