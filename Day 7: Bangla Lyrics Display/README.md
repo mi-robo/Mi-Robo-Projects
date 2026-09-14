@@ -35,7 +35,7 @@ Install via Arduino IDE Library Manager:
 
 ![Circuit diagram](banglalyrics.png)
 
-**Try it in simulation:** []
+**Try it in simulation:** [https://wokwi.com/projects/475130164644313089] (might take a little time than usual to compile)
 
 ## How to use
 
