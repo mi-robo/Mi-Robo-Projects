@@ -12,5 +12,7 @@ Follow the journey:
 | Day | Project | Link |
 |-----|---------|------|
 | Day 5 | Temperature & Humidity Monitor | [View Project](./Temperature-humidity-monitor) |
+| Day 6 | Lyrics Display in OLED | [View Project](./Day%206%3A%20Lyrics%20Display%20in%20Oled) |
+| Day 7 | Bangla Lyrics Display | [View Project](./Day%207%3A%20Bangla%20Lyrics%20Display) |
 
 More projects coming soon as I keep learning and building.
