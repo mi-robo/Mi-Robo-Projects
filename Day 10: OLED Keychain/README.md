@@ -38,7 +38,7 @@ Board package: `esp32 by Espressif Systems` (via Boards Manager). Requires **Too
 
 ## Circuit
 
-![Breadboard circuit](deskbuddy.png)
+![Breadboard circuit](keychain.png)
 
 ## How to use
 
