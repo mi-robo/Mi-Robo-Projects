@@ -41,9 +41,9 @@ Install via Arduino IDE Library Manager:
 - **Adafruit SSD1306**
 - **Adafruit GFX Library** (installs automatically as a dependency)
 
-## Circuit
+## It Should Like This
 
-![Circuit diagram](circuit.png)
+![Photo of it will look like](IMG20261023174052.jpg)
 
 ## How to use
 
