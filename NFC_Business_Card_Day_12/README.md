@@ -2,8 +2,6 @@
 
 A business card that opens my whole portfolio when you tap it on a phone. No app, no typing, just hold the card to the back of the phone and my Mi Robo page opens.
 
-![The Mi Robo page that opens when the card is tapped](site-preview.jpg)
-
 ## What it does
 
 - Tap the card on an NFC phone and `https://mi-robo.github.io` opens in the browser.
